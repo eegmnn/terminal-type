@@ -10,7 +10,7 @@ This app is a lightweight and minimalist typing test that can be run on **Linux*
 
 ## Screenshots
 
-![terminal-typer Running](https://github.com/eegmnn/terminal-typer/assets/screenshot-terminal-typer.png)
+![terminal-typer Running](https://github.com/eegmnn/terminal-typer/blob/67a6ead7412418244db7d0471cd7be162715de5b/assets/screenshot-terminal-typer.png)
 
 ## Getting Started
 
